@@ -1,4 +1,4 @@
-﻿namespace MAUI_GridEx;
+﻿namespace MAUI_Layout_Grid1Ex;
 
 public partial class MainPage : ContentPage
 {

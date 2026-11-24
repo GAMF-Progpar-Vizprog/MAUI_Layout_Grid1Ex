@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MAUI_GridEx.MainPage">
+             x:Class="MAUI_Layout_Grid1Ex.MainPage">
 
 	<Grid RowDefinitions="70,1.5*,0.5*,Auto" ColumnDefinitions="2*,1*" Padding="5" ColumnSpacing="10"
 				RowSpacing="10">

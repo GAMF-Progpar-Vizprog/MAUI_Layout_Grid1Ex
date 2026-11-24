@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="MAUI_GridEx.AppShell"
+    x:Class="MAUI_Layout_Grid1Ex.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:MAUI_GridEx"
+    xmlns:local="clr-namespace:MAUI_Layout_Grid1Ex"
     Shell.FlyoutBehavior="Disabled">
 
     <ShellContent

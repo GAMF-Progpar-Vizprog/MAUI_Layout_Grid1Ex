@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace MAUI_GridEx;
+namespace MAUI_Layout_Grid1Ex;
 
 class Program : MauiApplication
 {
