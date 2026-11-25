@@ -5,7 +5,7 @@
 
 	<Grid RowDefinitions="70,1.5*,0.5*,Auto" ColumnDefinitions="2*,1*" Padding="5" ColumnSpacing="10"
 				RowSpacing="10">
-		<Label Text="ColumnSpan" Grid.ColumnSpan="2"  BackgroundColor="AliceBlue" Grid.Row="0" 
+		<Label Text="ColumnSpan" Grid.ColumnSpan="2"  BackgroundColor="Aquamarine" Grid.Row="0" 
 					 HorizontalOptions="Fill"
 					 HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
 		<Border Grid.Row="1" Grid.Column="0" BackgroundColor="AliceBlue" StrokeShape="RoundRectangle 8"/>
